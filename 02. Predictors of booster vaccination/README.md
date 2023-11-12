@@ -744,7 +744,7 @@ ctab VAX1 VAX2 VAX3 VAX4 VAX_ADD TR_KDCA IDEOLOGY_1-IDEOLOGY_3 COVID_EXGG FEMALE
     (output written to C:\Dropbox\01_Research\107_Korean Vaccine Survey\02_Analysis\outputs\01_Vaccination\eSupplement_unweighted.rtf)
     
 
-## Part IV. Estimation
+# Part IV. Estimation
 
 ## Figure 1 & Appendix 1. Predictors of COVID-19 Booster Vaccination
 
@@ -858,7 +858,7 @@ esttab lm1  ///
     * p<0.05, ** p<0.01, *** p<0.001
     
 
-![](img\Fig1.jpg)
+![](img/Fig1.jpg)
 
 ## Appendix 2. Unadjusted Estimates of the Predictors of COVID-19 Vaccination
 
