@@ -47,4 +47,4 @@ Byoung Joon Kim, Department of Public Administration, Kookmin University
 
 Jinwoo Lee, Korean Educational Development Institute
 
-[@Soohyun Park](https://twitter.com/@Youngsung_Kim), Department of Public Administration and Policy, University at Albany, State University of New York
+[@Soohyun Park](https://twitter.com/@soohyun_park_91), Department of Public Administration and Policy, University at Albany, State University of New York
