@@ -1,46 +1,50 @@
-# Health insurance loss during COVID-19 increases support for Universal Health Coverage
+# COVID-19 Survey, Republic of Korea, 2022
 
-This repository provides the data and code that supports the findings of a study "Health insurance loss during COVID-19 increases support for Universal Health Coverage" published at Journal of Health Politics, Policy and Law (JHPPL). The study is based on a survey on health care access during the COVID-19 pandemic conducted in June 2020. The aim of this survey was to examine how different ways of presenting information about universal health coverage during the COVID-19 pandemic affects people’s attitudes about moving the predominately private US health system in the direction of public health insurance coverage and investigate people's attitudes related to the COVID-19 issue. The survey includes the following sections: message framing experiment, health reform, COVID-19 stimulus, policy response, personal response, personal worry about COVID-19, media, mental health, impact of COVID-19 on child/eldery care, ideology, cultural cognition, rumors, and democraphic questions..
+This repository provides information about a survey conducted in the Republic of Korea (ROK) and code that supports the findings of studies using the data. The public's trust in public health institutions and compliance with health guidelines, such as vaccination and mask-wearing, have been regarded as essential to ending the COVID-19 pandemic, which was an unprecedented health emergency in the contemporary era. However, recently, in Korean society, mistrust towards the government and health authorities, their response policies, and vaccines has been increasingly rising. To design effective infectious disease prevention and response policies, it is vital to understand the socio-psychological drivers of people's health behaviors and confidence in vaccines and preventive policies. With the support of the [Academy of Korean Studies](http://intl.aks.ac.kr/english/index.do), this project conducted a nationwide online survey four times (1,500 per round) to investigate Korean adults' COVID-19 preventive behaviors, perceptions of vaccines, government trust, and socio-demographic information.
 
 ## Survey Information
 
-* Time Period: Jun. 3. 2020 - Jun. 8. 2020
 * Sample Information
-  * Size: 1,211
-  * Ages 18 or higher
-  * Area: United States
-* Survey Platform: Qualtrics Online survey
+  * Country: Republic of Korea
+  * Size: 6,000 responses (1,500 per round)
+  * Population: 18 or higher  
+  * Stratification: Province/metropolitan city, age, sex
+  * Survey platform: [TrendResearch](www.trendmr.com)
+* Data collection periods
+  * April, 29th – May 1st (750 responses) / May 7th - 8th, 2022 (750 responses)
+  * July, 1st – July 7th (1,500 responses)
+  * September, 19th – September 23rd (1,500 responses)
+  * November, 22nd – November 28th (1,500 responses)
 
-## What's Included
-
-### Data
-
-* **Rawdata.csv**: The raw data.
-* **Varlist.csv**: The list of the variables included in the data file.
-* **Questionnaires.pdf**: The full PDf version of the survey.
 
 ### Project Folders
 
-* **01. M4A Study**: Health insurance loss during COVID-19 increases support for Universal Health Coverage
-	* Authors: Ashley M. Fox, Yongjin Choi, Heather Lanthorn, and Kevin Croke
+* **01. Mpox experiment**: Communities at Risk for Mpox and Stigmatizing Policies: A Randomized Survey, Republic of Korea, 2022
+	* Authors: Yongjin Choi, Ashley M. Fox
+* **02. Predictors of booster vaccination**: Who Gets COVID-19 booster vaccination? Trust in Public Health Institutions and Promotion Strategies Post-Pandemic in the Republic of Korea
+	* Authors: Yongjin Choi, Soohyun Park, Jinwoo Lee, Youngsung Kim, Byoung Joon Kim, Leesa Lin, and Ashley M. Fox
 
 ## Funding
 
-Faculty Research Award Program - category B (FRAP-B), University at Albany, State University of New York
+The Korean Studies Grant 2022, Academy of Korean Studies (grant AKS-2022-R124)
 
 ## Contact Us
 
-If you have questions regarding the data or the studies presented on this page, please contact at:
+If you want to access the data or have questions, please contact:
 
-[afox3@albany.edu](afox3@albany.edu) or [ychoi2@albany.edu](ychoi2@albany.edu)
+[Yongjin.Choi@lshtm.ac.uk](Yongjin.Choi@lshtm.ac.uk)
 
 
-## Contributors
+## Project Investigators
 
-Principal Investigator: [@Ashley Fox](https://twitter.com/ashfoxly)
+Principal Investigator: [@Yongjin Choi](https://twitter.com/TheYongjinChoi), Department of Infectious Disease Epidemiology, London School of Hygiene and Tropical Medicine
 
-[@Heather Lanthorn](https://twitter.com/hlanthorn)
+[@Ashley Fox](https://twitter.com/ashfoxly), Department of Public Administration and Policy, University at Albany, State University of New York
 
-[@Kevin Croke](https://twitter.com/jkcroke1)
+Byoung Joon Kim, Department of Public Administration, Kookmin University
 
-[@Yongjin Choi](https://twitter.com/TheYongjinChoi)
+[@Youngsung Kim](https://twitter.com/@Youngsung_Kim), Department of Public Administration, Hankuk University of Foreign Studies
+
+Jinwoo Lee, Korean Educational Development Institute
+
+[@Soohyun Park](https://twitter.com/@Youngsung_Kim), Department of Public Administration and Policy, University at Albany, State University of New York
